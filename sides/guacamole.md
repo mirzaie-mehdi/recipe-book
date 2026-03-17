@@ -20,3 +20,4 @@
 - add salt
 - and mix well
 - enjoy!
+- wash the dishes
